@@ -19,4 +19,4 @@ function PickupLocation (address, city){
   this.city = city
 }
 
-let PickupLocation = new poshHotel ('123 Broadway', 'New York City')
+let poshHotel = new PickupLocation ('123 Broadway', 'New York City')
