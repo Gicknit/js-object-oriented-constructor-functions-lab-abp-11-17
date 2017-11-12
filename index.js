@@ -1,5 +1,7 @@
 function Scooter('year', 'color', 'model'){
   this.year = year
-  this.age = age
-  this.hometown = hometown
+  this.color = color
+  this.model = model
 }
+
+let samson = new Scooter ()
