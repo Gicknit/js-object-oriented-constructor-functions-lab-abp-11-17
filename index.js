@@ -18,3 +18,5 @@ function PickupLocation (address, city){
   this.address = address
   this.city = city
 }
+
+let PickupLocation = new PickupLocation ('123 Broadway', 'New York City')
